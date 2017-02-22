@@ -7,7 +7,7 @@ In cities accross the US, bike sharing programs are becoming increasingly popula
 
 **We will be exploring:**
 
-We will be trying to predict the bike rental count for a one hour time period.  We will use the following models, to see which one is most accurate:
+We will be trying to predict the bike rental count for one hour time periods.  We will use the following models to see which one is most accurate:
 
 - Linear Regression
 - Decision Tree
