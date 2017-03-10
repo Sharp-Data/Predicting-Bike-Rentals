@@ -12,6 +12,10 @@ We will be trying to predict the bike rental count for one hour time periods usi
 - Decision Tree
 - Random Forest
 
+### Results
+
+We were able to reduce our error metric (mean squared error) from ~17,054 with a linear regression model to ~2,149 with Random Forest.
+
 ### Files & Data
 
 - *PBR.ipynb - Code in Jupyter Notebook*
